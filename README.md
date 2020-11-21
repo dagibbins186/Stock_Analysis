@@ -5,3 +5,5 @@ A client sought insights into green-energy-investing. This project examines the 
 Upon opening the worksheet, the client is prompted to run an analysis.
 ![Run%20Analysis%20Image](https://github.com/dagibbins186/Stock_Analysis/blob/main/Resources/Run%20Analysis%20Image.png)
 When the client clicks the button, a prompt appears.
+![Prompt](https://github.com/dagibbins186/Stock_Analysis/blob/main/Resources/Prompt.png)
+If the client enters 2017, then a table appears with this year's results.
