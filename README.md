@@ -17,7 +17,7 @@ If the client enters 2017, then a table appears with this year's results.\
   \
 ![2017_Analysis_Results](https://github.com/dagibbins186/Stock_Analysis/blob/main/Resources/2017_Analysis_Results.png)\
   \
-The results show a fruitful year for green energy. Positive returns appear in green. Negative returns display in red. Among the stocks that the client watches, 11/12 turned a profit. The DQ stock did the best at (199%). They story changes if the client clears the worksheet, and enters 2018 to arrive at results.\
+The results show a fruitful year for green energy. Positive returns appear in green. Negative returns display in red. Among the stocks that the client watches, 11/12 turned a profit in 2017. The DQ stock did the best at (199%). Unfortunately, the story changes if the client clears the worksheet, and enters 2018 to arrive at the results.\
   \
 ![2018_Analysis_Results](https://github.com/dagibbins186/Stock_Analysis/blob/main/Resources/2018_Analysis_Results.png)
   \
