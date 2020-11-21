@@ -7,3 +7,4 @@ Upon opening the worksheet, the client is prompted to run an analysis.
 When the client clicks the button, a prompt appears.
 ![Prompt](https://github.com/dagibbins186/Stock_Analysis/blob/main/Resources/Prompt.png)
 If the client enters 2017, then a table appears with this year's results.
+!(
